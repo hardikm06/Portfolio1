@@ -134,5 +134,5 @@ You will need to download **Git** and **Node** to run this project.
   ```
 
 
-<div align="center"> Made with ❤️ by Nazmul Hossain </div>
+<div align="center"> Made with Hardik Mishra </div>
 
