@@ -5,24 +5,24 @@ import PropTypes from "prop-types";
 
 const projects = [
   {
-    title: "Olova! A Lightweight JavaScript Library",
+    title: "Edu-Tech! An online learning platform",
     description:
-      "A lightweight JavaScript library for creating beautiful, responsive UI components.",
+      "our platform provides a dynamic learning environment where curiosity is celebrated and growth is fostered.",
     src: "rock.jpg",
-    link: "https://i.postimg.cc/DwgWTfP0/Annotation-2025-03-19-113338.png",
+    link: "https://i.ibb.co/V0WFwrcY/edu-tech.png",
     color: "#5196fd",
-    githubLink: "https://github.com/olovajs/olova",
-    liveLink: "https://olova.js.org/",
+    githubLink: "https://github.com/hardikm06/EduTech-Website",
+    liveLink: "https://edu-tech-website.vercel.app/",
   },
   {
     title: "A sleek portfolio built with React and Tailwind CSS ",
     description:
       "A sleek portfolio built with React and Tailwind CSS to showcase your skills, projects, and experience in a modern design.",
     src: "tree.jpg",
-    link: "https://i.postimg.cc/J75CKyrs/Annotation-2025-04-01-203959.png",
+    link: "https://i.ibb.co/qFVHfWR4/portfolio.png",
     color: "#8f89ff",
-    githubLink: "https://github.com/seraprogrammer/portfolio",
-    liveLink: "https://codervai.vercel.app",
+    githubLink: "https://github.com/hardikm06/Portfolio",
+    liveLink: "#",
   },
   {
     title: "🚀 CodeWhisperer",
@@ -34,16 +34,7 @@ const projects = [
     githubLink: "https://github.com/seraprogrammer/codewhisperer",
     liveLink: "https://codewhisperer.vercel.app/",
   },
-  {
-    title: "CodeKori 🔥",
-    description:
-      "CodeKori is a powerful online code editor built with React and Tailwind CSS. Featuring real-time code execution, syntax highlighting, multi-language support, and a sleek UI. Start coding instantly! 💻✨",
-    src: "house.jpg",
-    link: "https://i.postimg.cc/cHQr4fpR/Annotation-2025-04-01-205350.png",
-    color: "#ed649e",
-    githubLink: "https://github.com/seraprogrammer/CodeKori",
-    liveLink: "https://codekori.js.org",
-  },
+  
 ];
 
 export default function Projects() {

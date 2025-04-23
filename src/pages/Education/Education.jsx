@@ -15,24 +15,24 @@ const EducationSection = () => {
 
   const educationData = [
     {
-      degree: "Secondary School Certificate (SSC)",
-      school: "Natore Textile Institute",
+      degree: "Graduation",
+      school: "Lovely Professional University, Punjab",
       mascot: "📘",
-      year: "2019-2021",
-      achievements: ["GPA: 4.89", "Subject: Science"],
-      skills: ["Mathematics", "Physics", "Chemistry", "Biology"],
+      year: "2022-2026",
+      achievements: ["CGPA: 7.60", "Stream: CSE"],
+      skills: ["Programming", "Web-development", "DBMS", "Operating System"],
       description:
-        "Focused on core science subjects with emphasis on practical laboratory work and scientific research methodologies.",
+        "Focused on core CSE subjects with emphasis on practical laboratory work and research methodologies.",
     },
     {
       degree: "Higher Secondary Certificate (HSC)",
-      school: "Dottopara Model Degree College",
+      school: "SSM Hr. Sec. School, Satna (M.P)",
       mascot: "📗",
-      year: "2021-2023",
-      achievements: ["GPA: 4.25", "Subject: Arts"],
-      skills: ["Literature", "Social Studies", "Economics", "History"],
+      year: "2020-2021",
+      achievements: ["Percentage: 98.2%", "Subject: Science"],
+      skills: ["Mathematics", "Physics", "Chemistry", "English"],
       description:
-        "Developed strong analytical and critical thinking skills through comprehensive study of humanities and social sciences.",
+        "Developed strong analytical and critical thinking skills through comprehensive study of science.",
     },
   ];
 
